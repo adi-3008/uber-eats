@@ -15,11 +15,6 @@
   "workspaces": [
     "packages/*"
   ],
-  "dependencies": {
-    "@tailwindcss/postcss": "^4.1.17",
-    "postcss": "^8.5.6",
-    "tailwindcss": "^4.1.17"
-  },
   "devDependencies": {
     "@commitlint/cli": "^16.0.1",
     "@commitlint/config-conventional": "^16.0.0",
